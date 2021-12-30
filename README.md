@@ -1,6 +1,6 @@
-# LeetCode-Problems
-Leetcode Solutions
+# LeetCode-Problems-Solutions
 
-1: Two Sum (1) EASY
-2: Palindrome Number (9) EASY
-3: Two Sum II - Input Array Is Sorted (167) EASY
+
+# Two Sum (1) EASY
+# Palindrome Number (9) EASY
+# Two Sum II - Input Array Is Sorted (167) EASY
